@@ -1,6 +1,6 @@
 #print('Hello world')
 #print('Adding new line')
-#print('I won\'t stop in Python learning ')
+
 
 
 def factorial(n):
@@ -8,4 +8,5 @@ def factorial(n):
     for i in range(1, n + 1):
         sum *= i
     return sum
+#comment
 print(factorial(6))

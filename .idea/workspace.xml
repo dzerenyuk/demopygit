@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a1ba90-b0c8-44a6-9afe-023e15988a61" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\dmytro.dzereniuk\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,27 +80,35 @@
       <option name="project" value="LOCAL" />
       <updated>1575536572273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove third file">
+      <created>1575537459585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575537459585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="message" />
     <MESSAGE value="adding code lines to second lines" />
     <MESSAGE value="adding third file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding third file" />
+    <MESSAGE value="remove third file" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove third file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2495" y="235" key="CommitChangelistDialog2" timestamp="1575536571575">
+    <state x="2495" y="235" key="CommitChangelistDialog2" timestamp="1575537458742">
       <screen x="1920" y="-113" width="1920" height="1160" />
     </state>
-    <state x="2495" y="235" key="CommitChangelistDialog2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575536571575" />
+    <state x="2495" y="235" key="CommitChangelistDialog2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575537458742" />
     <state x="2335" y="186" key="SettingsEditor" timestamp="1575537396895">
       <screen x="1920" y="-113" width="1920" height="1160" />
     </state>
     <state x="2335" y="186" key="SettingsEditor/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575537396895" />
-    <state x="2426" y="276" key="Vcs.Push.Dialog.v2" timestamp="1575536602338">
+    <state x="2426" y="276" key="Vcs.Push.Dialog.v2" timestamp="1575537479116">
       <screen x="1920" y="-113" width="1920" height="1160" />
     </state>
-    <state x="2426" y="276" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575536602338" />
+    <state x="2426" y="276" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575537479116" />
   </component>
 </project>

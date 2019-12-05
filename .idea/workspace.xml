@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7a1ba90-b0c8-44a6-9afe-023e15988a61" name="Default Changelist" comment="message">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/demopygit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/second.py" beforeDir="false" afterPath="$PROJECT_DIR$/second.py" afterDir="false" />
+    <list default="true" id="d7a1ba90-b0c8-44a6-9afe-023e15988a61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/third.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,21 +67,29 @@
       <option name="project" value="LOCAL" />
       <updated>1575535820841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding code lines to second lines">
+      <created>1575536286691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575536286691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="message" />
-    <option name="LAST_COMMIT_MESSAGE" value="message" />
+    <MESSAGE value="adding code lines to second lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding code lines to second lines" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2495" y="235" key="CommitChangelistDialog2" timestamp="1575535888534">
+    <state x="2495" y="235" key="CommitChangelistDialog2" timestamp="1575536285962">
       <screen x="1920" y="-113" width="1920" height="1160" />
     </state>
-    <state x="2495" y="235" key="CommitChangelistDialog2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575535888534" />
-    <state x="2426" y="276" key="Vcs.Push.Dialog.v2" timestamp="1575535973965">
+    <state x="2495" y="235" key="CommitChangelistDialog2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575536285962" />
+    <state x="2426" y="276" key="Vcs.Push.Dialog.v2" timestamp="1575536298953">
       <screen x="1920" y="-113" width="1920" height="1160" />
     </state>
-    <state x="2426" y="276" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575535973965" />
+    <state x="2426" y="276" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.-113.1920.1160@1920.-113.1920.1160" timestamp="1575536298953" />
   </component>
 </project>
